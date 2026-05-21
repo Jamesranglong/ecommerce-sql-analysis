@@ -713,8 +713,10 @@ LIMIT 10;
 ```
 ecommerce-sql-analysis/
 │
-├── sql/                      # All SQL queries (Basic + Advanced)
-├── .gitignore
+├── sql/
+│   ├── queries.sql
+│   └── schema.sql
+│
 └── README.md
 ```
 
