@@ -1,13 +1,10 @@
 # 🛒 E-Commerce Business Intelligence
 ### End-to-End Sales, Customer & Seller Analysis using PostgreSQL
 
-![SQL](https://img.shields.io/badge/SQL-PostgreSQL-blue?style=flat&logo=postgresql)
-![Domain](https://img.shields.io/badge/Domain-E--Commerce-orange?style=flat)
-![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=flat)
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This project performs an end-to-end SQL analysis on the **Brazilian E-Commerce Public Dataset by Olist** — a real-world dataset containing 100,000+ orders from a Brazilian marketplace between 2016 and 2018.
 
@@ -15,7 +12,7 @@ The goal is to extract meaningful business insights across **sales performance, 
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 - **Source:** [Kaggle — Brazilian E-Commerce Public Dataset by Olist](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce)
 - **Size:** 100,000+ orders across 9 relational tables
@@ -38,7 +35,7 @@ product_category_name_translation   → Portuguese to English category names
 
 ---
 
-## 🛠️ Tools & Technologies
+## Tools & Technologies
 
 | Tool | Purpose |
 |---|---|
@@ -49,7 +46,7 @@ product_category_name_translation   → Portuguese to English category names
 
 ---
 
-## 🚀 How to Reproduce This Project
+##  How to Reproduce This Project
 
 ### Step 1 — Setup Database
 ```sql
@@ -671,7 +668,7 @@ LIMIT 10;
 
 ---
 
-## 💡 Key Business Insights
+##  Key Business Insights
 
 | # | Insight | Business Recommendation |
 |---|---|---|
@@ -708,7 +705,7 @@ LIMIT 10;
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 ecommerce-sql-analysis/
@@ -722,13 +719,13 @@ ecommerce-sql-analysis/
 
 ---
 
-## 👤 Author
+##  Author
 
 **James Halam**
 Aspiring Data Analyst | E-Commerce Domain
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/jameshalam/)
-- 🐙 [GitHub](https://github.com/Jamesranglong)
+- [LinkedIn](https://www.linkedin.com/in/jameshalam/)
+- [GitHub](https://github.com/Jamesranglong)
 
 ---
 
