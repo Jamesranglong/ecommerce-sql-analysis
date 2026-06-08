@@ -722,7 +722,6 @@ ecommerce-sql-analysis/
 ##  Author
 
 **James Halam**
-Aspiring Data Analyst | E-Commerce Domain
 
 - [LinkedIn](https://www.linkedin.com/in/jameshalam/)
 - [GitHub](https://github.com/Jamesranglong)
