@@ -1,4 +1,4 @@
-# 🛒 E-Commerce Business Intelligence
+#  E-Commerce Business Intelligence
 ### End-to-End Sales, Customer & Seller Analysis using PostgreSQL
 
 
@@ -172,9 +172,9 @@ SELECT 'category_translation', COUNT(*) FROM product_category_name_translation;
 
 ---
 
-## 📊 Business Questions & SQL Queries
+## Business Questions & SQL Queries
 
-### 🟢 Basic Analysis
+###  Basic Analysis
 
 ---
 
@@ -398,7 +398,7 @@ ORDER BY
 
 ---
 
-### 🔴 Advanced Analysis
+###  Advanced Analysis
 
 ---
 
@@ -683,7 +683,7 @@ LIMIT 10;
 
 ---
 
-## 🧠 SQL Concepts Demonstrated
+##  SQL Concepts Demonstrated
 
 | Concept | Where Used |
 |---|---|
